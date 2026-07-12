@@ -160,4 +160,4 @@ Potential improvements for future versions:
 
 ## License
 
-Add a license of your choice (e.g. MIT) here.
+Released under the [MIT License](LICENSE). See the `LICENSE` file for details.
